@@ -1,6 +1,6 @@
 # Chapter 4
 
-To train a neural network, use the file optimize.py. the script records a series of experiments inside the Comet-ML dashboard. To use this file, you need a Comet-ML api key. register is free using a educatioal email adress. Inside the script, you can change the parameters of the experiments.
+To train a neural network, use the file optimize.py. the script records a series of experiments inside the Comet-ML dashboard. To use this file, you need a Comet-ML api key inside a `.comet.config` file. Registering is free using a educational email adress. Inside the script, you can change the parameters of the experiments.
 
 
 Example of usage :
