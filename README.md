@@ -7,17 +7,14 @@ The code used in my dissertation.
 ## Installation
 To install all the dependencies needed, use
 
-> pip -r requirements.txt
+`pip -r requirements.txt`
 
 Note that you can't intall some of pytorch dependenccies in a single requirements.txt (https://github.com/pyg-team/pytorch_geometric/issues/861). First install requirements.txt and then install the last dependencies manually
 
-> torch-spline-conv==1.2.1
-
-> torch-cluster==1.5.9
-
-> torch-scatter==2.0.9
-
-> torch-sparse==0.6.12
+`torch-spline-conv==1.2.1`<br/>
+`torch-cluster==1.5.9`<br/>
+`torch-scatter==2.0.9`<br/>
+`torch-sparse==0.6.12`
 
 ------------
 ## Project Organization
