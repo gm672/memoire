@@ -4,10 +4,10 @@ To train a neural network, use the file optimize.py. the script records a series
 
 
 Example of usage :
->  python run_experiment.py --training_size=6000 --test_size=600 --batch_size=64 --epochs=500 UDDataset
+`python run_experiment.py --training_size=6000 --test_size=600 --batch_size=64 --epochs=500 UDDataset`
 
 
 To predict result using a model, run the predict.py script. By default, the script uses the test set and the best model for each dataset.
 
 Example of usage :
->  python getResults.py --dataset=UD --cm=no  
+`python getResults.py --dataset=UD --cm=no `
