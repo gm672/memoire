@@ -9,7 +9,7 @@ To install all the dependencies needed, use
 
 `pip -r requirements.txt`
 
-Note that you can't intall some of pytorch dependenccies in a single requirements.txt (https://github.com/pyg-team/pytorch_geometric/issues/861). First install requirements.txt and then install the last dependencies manually
+Note that you can't intall some of pytorch dependencies in a single requirements.txt (https://github.com/pyg-team/pytorch_geometric/issues/861). First install requirements.txt and then install the last dependencies manually
 
 `torch-spline-conv==1.2.1`<br/>
 `torch-cluster==1.5.9`<br/>
