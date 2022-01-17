@@ -29,12 +29,12 @@ Note that you can't intall some of pytorch dependencies in a single requirements
     ├── requirements.txt   <- The requirements file for reproducing the analysis environment.
     │
     ├── src                <- Source code for use in this project.
-    │   ├── chapter_3      <- All the scripts used in chapter 3
+    │   ├── chapter_3      <- All the scripts used in chapter 3.
     │   │
-    │   ├── chapter_4      <- Scripts used in chapter 4
+    │   ├── chapter_4      <- Scripts used in chapter 4.
     │   │
-    │   └── models         <- Scripts to train models and then use trained models to make
-    │                         predictions
+    │   └── models         <- Models created in the course of the experiments.
+    │                         
     └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
 
 --------
