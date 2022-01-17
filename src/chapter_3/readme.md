@@ -6,7 +6,7 @@ To generate a csv file containing all the measures from a connlu file, use the s
 
 Example command :
 
-> python report.py fro_srcmf-ud-test.conllu report_old_french_test.csv
+`python report.py fro_srcmf-ud-test.conllu report_old_french_test.csv`
 
 The output CSV file is formated with one sentence per line with  :
 
